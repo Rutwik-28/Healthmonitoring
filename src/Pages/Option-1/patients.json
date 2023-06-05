@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "metrics": {
+      "chills": false,
+      "diastoleBP": 80,
+      "systoleBP": 120,
+      "heartRate": 75,
+      "respirationRate": 16,
+      "spo2": 99,
+      "bloodGroup": "A+",
+      "temperature": 98.6,
+      "ambulation": true,
+      "feverHistory": "No",
+      "bmi": 20,
+      "fio2": 50
+    }
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "metrics": {
+      "chills": false,
+      "diastoleBP": 80,
+      "systoleBP": 120,
+      "heartRate": 80,
+      "respirationRate": 18,
+      "spo2": 97,
+      "bloodGroup": "A+",
+      "temperature": 97.5,
+      "ambulation": true,
+      "feverHistory": "No",
+      "bmi": 21,
+      "fio2": 60
+    }
+  },
+  {
+    "id": "3",
+    "name": "Michael Johnson",
+    "metrics": {
+      "chills": false,
+      "diastoleBP": 75,
+      "systoleBP": 100,
+      "heartRate": 75,
+      "respirationRate": 16,
+      "spo2": 99,
+      "bloodGroup": "A+",
+      "temperature": 98.6,
+      "ambulation": true,
+      "feverHistory": "No",
+      "bmi": 20,
+      "fio2": 50
+    }
+  },
+  {
+    "id": "4",
+    "name": "Emily Davis",
+    "metrics": {
+      "chills": false,
+      "diastoleBP": 80,
+      "systoleBP": 120,
+      "heartRate": 80,
+      "respirationRate": 18,
+      "spo2": 97,
+      "bloodGroup": "A+",
+      "temperature": 97.5,
+      "ambulation": true,
+      "feverHistory": "No",
+      "bmi": 21,
+      "fio2": 60
+    }
+  },
+  {
+    "id": "5",
+    "name": "David Wilson",
+    "metrics": {
+      "chills": false,
+      "diastoleBP": 75,
+      "systoleBP": 100,
+      "heartRate": 75,
+      "respirationRate": 16,
+      "spo2": 99,
+      "bloodGroup": "A+",
+      "temperature": 98.6,
+      "ambulation": true,
+      "feverHistory": "No",
+      "bmi": 20,
+      "fio2": 50
+    }
+  },
+  {
+    "id": "6",
+    "name": "Olivia Thompson",
+    "metrics": {
+      "chills": true,
+      "diastoleBP": 90,
+      "systoleBP": 120,
+      "heartRate": 95,
+      "respirationRate": 22,
+      "spo2": 95.5,
+      "bloodGroup": "O+",
+      "temperature": 99.5,
+      "ambulation": false,
+      "feverHistory": "Yes",
+      "bmi": 25,
+      "fio2": 58
+    }
+  },
+  {
+    "id": "7",
+    "name": "Sophia Clark",
+    "metrics": {
+      "chills": true,
+      "diastoleBP": 92,
+      "systoleBP": 130,
+      "heartRate": 100,
+      "respirationRate": 24,
+      "spo2": 95,
+      "bloodGroup": "O-",
+      "temperature": 99.8,
+      "ambulation": false,
+      "feverHistory": "Yes",
+      "bmi": 24.5,
+      "fio2": 60
+    }
+  },
+  {
+    "id": "8",
+    "name": "Liam Harris",
+    "metrics": {
+      "chills": true,
+      "diastoleBP": 90,
+      "systoleBP": 130,
+      "heartRate": 95,
+      "respirationRate": 22,
+      "spo2": 95.5,
+      "bloodGroup": "O+",
+      "temperature": 99.5,
+      "ambulation": false,
+      "feverHistory": "Yes",
+      "bmi": 25,
+      "fio2": 58
+    }
+  },
+  {
+    "id": "9",
+    "name": "Mia Walker",
+    "metrics": {
+      "chills": true,
+      "diastoleBP": 92,
+      "systoleBP": 130,
+      "heartRate": 100,
+      "respirationRate": 24,
+      "spo2": 95,
+      "bloodGroup": "O-",
+      "temperature": 99.8,
+      "ambulation": false,
+      "feverHistory": "Yes",
+      "bmi": 24.5,
+      "fio2": 60
+    }
+  },
+  {
+    "id": "10",
+    "name": "James Anderson",
+    "metrics": {
+      "chills": true,
+      "diastoleBP": 90,
+      "systoleBP": 130,
+      "heartRate": 95,
+      "respirationRate": 22,
+      "spo2": 95.5,
+      "bloodGroup": "O+",
+      "temperature": 99.5,
+      "ambulation": false,
+      "feverHistory": "Yes",
+      "bmi": 25,
+      "fio2": 58
+    }
+  }
+]

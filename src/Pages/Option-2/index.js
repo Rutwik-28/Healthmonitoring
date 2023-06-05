@@ -1,9 +1,11 @@
-import './main.css';
+import PatientForm from "./PatientForm";
+import "./main.css";
 
 function OPTION2() {
-    return <div>
-        
+  return (
+    <div>
+      <PatientForm />
     </div>
-
+  );
 }
-export default OPTION2
+export default OPTION2;
