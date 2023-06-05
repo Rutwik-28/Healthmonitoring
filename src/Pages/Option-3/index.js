@@ -1,10 +1,11 @@
-import { Typography } from "antd";
-import './main.css'
+import "./main.css";
+import ConditionCards from "./ConditionCards";
 
 function OPTION3() {
-    return <div>
-        
+  return (
+    <div>
+      <ConditionCards />
     </div>
-    
+  );
 }
-export default OPTION3
+export default OPTION3;

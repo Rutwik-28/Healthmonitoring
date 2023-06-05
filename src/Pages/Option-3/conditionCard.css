@@ -1,0 +1,23 @@
+.condition-card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .condition-card h3 {
+    margin: 0;
+  }
+  
+  .condition-card p {
+    margin: 5px 0;
+  }
+  
+  .condition-card.green {
+    background-color: #c8e6c9;
+  }
+  
+  .condition-card.red {
+    background-color: #ffcdd2;
+  }
+  

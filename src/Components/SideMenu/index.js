@@ -34,25 +34,25 @@ function SideMenu() {
         inlineCollapsed={collapsed}
         items={[
           {
-            label: "OPTION-1",
+            label: "Patient Dashboard",
             key: "/",
           },
           {
-            label: "OPTION-2",
+            label: "E-Prescription",
             key: "/op1",
           },
           {
-            label: "OPTION-3",
+            label: "Predictions",
             key: "/op2",
           },
-          {
-            label: "OPTION-4",
-            key: "/op3",
-          },
-          {
-            label: "OPTION-5",
-            key: "/op4",
-          },
+          // {
+          //   label: "OPTION-4",
+          //   key: "/op3",
+          // },
+          // {
+          //   label: "OPTION-5",
+          //   key: "/op4",
+          // },
         ]}
       ></Menu>
     </div>
