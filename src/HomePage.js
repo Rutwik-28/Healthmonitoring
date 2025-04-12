@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Login from "./Login";
 import LogoutButton from "./LogOut";
 import "./homepage.css"; // Import your custom CSS file for styling
+//Adding a comment
 
 const Homepage = () => {
   const [thoughtOfTheDay, setThoughtOfTheDay] = useState(""); // State to store the thought of the day
